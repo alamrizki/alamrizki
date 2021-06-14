@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, my name Alam and i'm student from Telkom University👋
+
+[![Instagram badge](https://img.shields.io/badge/Instagram-405DE6?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/randikadwim/&link=)](https://www.instagram.com/alamrf_/)
 
 <!--
 **alamrizki/alamrizki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
